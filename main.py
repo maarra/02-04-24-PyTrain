@@ -8,4 +8,4 @@ print(mySet)
 #2
 for _ in mySet:
   print(_  + " " + str(veta.count(_)))
-print('něco')
+print('něco na tom bude')
