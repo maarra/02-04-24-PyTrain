@@ -18,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -31,10 +36,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.main.executor": "Debug",
+    "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "full.screen.before.presentation.mode": "false",
+    "git-widget-placeholder": "new__feature-xy",
+    "settings.editor.selected.configurable": "advanced.settings"
   },
   "keyToStringList": {
     "GitStage.ChangesTree.GroupingKeys": [
@@ -44,6 +51,14 @@
     ]
   }
 }]]></component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="02-04-24-PyTrain" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="02-04-24-PyTrain" />
+      </console-settings>
+    </option>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -60,11 +75,92 @@
       <option name="presentableId" value="Default" />
       <updated>1712074257788</updated>
     </task>
+    <task id="LOCAL-00001" summary="uprava radku 11">
+      <option name="closed" value="true" />
+      <created>1712075823443</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712075823444</updated>
+    </task>
+    <task id="LOCAL-00002" summary="uprava radku 11">
+      <option name="closed" value="true" />
+      <created>1712075853845</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712075853845</updated>
+    </task>
+    <task id="LOCAL-00003" summary="vytvoreni nove branche">
+      <option name="closed" value="true" />
+      <created>1712076209308</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712076209308</updated>
+    </task>
+    <task id="LOCAL-00004" summary="vytvoreni nove branche">
+      <option name="closed" value="true" />
+      <created>1712076282882</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712076282882</updated>
+    </task>
+    <task id="LOCAL-00005" summary="vytvoreni nove branche">
+      <option name="closed" value="true" />
+      <created>1712076337804</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712076337804</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="dev" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial commit" />
     <MESSAGE value="prvni" />
-    <option name="LAST_COMMIT_MESSAGE" value="prvni" />
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="uprava radku 11" />
+    <MESSAGE value="vytvoreni nove branche" />
+    <option name="LAST_COMMIT_MESSAGE" value="vytvoreni nove branche" />
   </component>
 </project>
