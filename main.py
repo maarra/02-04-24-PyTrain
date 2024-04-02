@@ -9,3 +9,4 @@ print(mySet)
 for _ in mySet:
   print(_  + " " + str(veta.count(_)))
 print('něco na tom bude')
+print('123456')
